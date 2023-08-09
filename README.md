@@ -1,5 +1,9 @@
 ### Hi there I am Anita Makori👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ghCVIZSBxwZ81IiBjv/giphy.gif" width="600" height="300"/>
+</div>      
+
 <!--
 **AnitaMakori/AnitaMakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
