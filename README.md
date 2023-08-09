@@ -11,6 +11,9 @@ Driven by my enthusiasm for leveraging data to drive decisions and policymaking 
 
 ### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### OS
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <!--
 **AnitaMakori/AnitaMakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
