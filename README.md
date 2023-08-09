@@ -10,7 +10,7 @@ Driven by my enthusiasm for leveraging data to drive decisions and policymaking 
 ## Skills
 
 ### Languages
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <!--
 **AnitaMakori/AnitaMakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
