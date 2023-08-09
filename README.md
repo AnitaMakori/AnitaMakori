@@ -7,6 +7,7 @@
 I am a proactive science graduate with a specialization in Epidemiology and Biostatistics. My passion lies in the application of data science and statistical principles to study, control, and prevent infectious diseases.
 Driven by my enthusiasm for leveraging data to drive decisions and policymaking in the public health sector, I am dedicated to providing innovative solutions for public health challenges. 
 
+
 ## Skills
 
 ### Languages
@@ -17,8 +18,10 @@ Driven by my enthusiasm for leveraging data to drive decisions and policymaking 
 ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
-## Connect with me
-
+## Connect with me:
+<div id="badges">
+  <a href=https://www.linkedin.com/in/anita-makori/)>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <!--
 **AnitaMakori/AnitaMakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
