@@ -7,6 +7,11 @@
 I am a proactive science graduate with a specialization in Epidemiology and Biostatistics. My passion lies in the application of data science and statistical principles to study, control, and prevent infectious diseases.
 Driven by my enthusiasm for leveraging data to drive decisions and policymaking in the public health sector, I am dedicated to providing innovative solutions for public health challenges. 
 
+## Skills
+
+### Languages
+
+
 <!--
 **AnitaMakori/AnitaMakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
