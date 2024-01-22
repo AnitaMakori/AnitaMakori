@@ -4,8 +4,9 @@
   <img src="https://media.giphy.com/media/ghCVIZSBxwZ81IiBjv/giphy.gif" width="600" height="300"/>
 </div>      
 
-I am a proactive science graduate with a specialization in Epidemiology and Biostatistics. My passion lies in the application of data science and statistical principles to study, control, and prevent infectious diseases.
-Driven by my enthusiasm for leveraging data to drive decisions and policymaking in the public health sector, I am dedicated to providing innovative solutions for public health challenges. 
+I have over 3 years of professional experience as a Health Data Scientist, having collaborated extensively with the WHO Afro regional office, the Kenyan Ministry of Health, and various governmental bodies. My focus has been on providing crucial health-related analytical insights to shape policy and decision-making processes, especially in the context of infectious disease outbreak response.
+
+My expertise lies in the application of evidence-based research to inform and contribute to the control and prevention of infectious diseases. With a strong foundation in epidemiological principles and statistical analysis, I am adept at navigating complex health datasets and conducting comprehensive research to support public health initiatives.
 
 
 ## Skills
