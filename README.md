@@ -21,19 +21,15 @@ My expertise lies in the application of evidence-based research to inform and co
 
 ## Connect with me:
 <div id="badges">
-  <a href=https://www.linkedin.com/in/anita-makori/>
+  <a href="https://www.linkedin.com/in/anita-makori/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<!--
-**AnitaMakori/AnitaMakori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Current Projects
+- Investigating machine learning approaches for epidemic forecasting
+- Developing public health dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anita-makori/) or via [email](mailto:anita@example.com).
+
